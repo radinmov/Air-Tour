@@ -1,0 +1,29 @@
+html {
+    font-size: 10px;
+    scroll-behavior: smooth;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+button {
+    outline:0;
+    cursor: pointer;
+    border: none;
+
+}
+input {
+  outline: none;
+}
+a {
+    text-decoration: none;
+}
+ul, ol {
+    list-style: none;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
