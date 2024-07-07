@@ -1,5 +1,6 @@
-export const Home = () => {
-    return (
-        <p>hello</p>
-    )
-}
+
+// export default function Home() {
+//     return (
+//         <p>hello</p>
+//     )
+// }
