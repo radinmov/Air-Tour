@@ -1,5 +1,7 @@
+
+import "./Style.css"
 export const Home = () => {
     return (
-        <p>welcome to website here is main page </p>
+            <p>hello</p>
     )
 }
